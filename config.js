@@ -78,9 +78,9 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dr1pbfpaw/video/upload/v1739522273/yung_kai_-_blue_nykcig.mp4", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        musicUrl: "https://res.cloudinary.com/dr1pbfpaw/video/upload/v1739523022/Blue-Yung-Kai_wnqzrq.mp3", // Music streaming URL
+        startText: "🎵 Our Fav Music",        // Button text to start music
+        stopText: "🔇 Ohno Silent,:(",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
